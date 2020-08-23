@@ -15,7 +15,15 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "@babel/core": "^7.11.4",
+    "@babel/plugin-syntax-class-properties": "^7.10.4",
+    "@babel/plugin-transform-react-jsx": "^7.10.4",
+    "@babel/plugin-transform-runtime": "^7.11.0",
+    "@babel/preset-react": "^7.10.4",
+    "@rollup/plugin-babel": "^5.2.0",
     "fast-glob": "^3.2.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "sirv-cli": "^1.0.0"
   }
 }
