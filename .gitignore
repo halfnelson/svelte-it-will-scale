@@ -1,0 +1,13 @@
+/node_modules/
+/public/build/
+
+.DS_Store
+index-1.js
+index-5.js
+index-10.js
+index-20.js
+index-30.js
+index-40.js
+index-50.js
+index-60.js
+index-70.js
