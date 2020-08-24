@@ -22,6 +22,7 @@
     "@babel/preset-react": "^7.10.4",
     "@rollup/plugin-babel": "^5.2.0",
     "fast-glob": "^3.2.4",
+    "preact": "^10.4.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "sirv-cli": "^1.0.0"
